@@ -1,6 +1,6 @@
 @font-face {
-  src: url("../assets/yellowtail-regular.woff") format("woff");
   font-family: "Yellowtail";
+  src: url("../assets/fonts/yellowtail-regular.woff") format("woff");
 }
 
 .header {
